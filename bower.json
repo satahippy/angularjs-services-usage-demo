@@ -1,0 +1,12 @@
+{
+	"name": "AngularJS Services Usage Demo",
+	"version": "0.0.1",
+	"authors": [
+		"satahippy <satahippy@gmail.com>"
+	],
+	"description": "Demonstration syntax to use AngularJS services",
+	"license": "MIT",
+	"dependencies": {
+		"angular": "1.2.14"
+	}
+}
